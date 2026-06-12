@@ -1,0 +1,9 @@
+a=int(input())
+b=int(input())
+print(a<b)
+print(a>b)
+a,b=10,11
+print(a<=b)
+print(a>=b)
+print(a==b)
+print(a!=b)
